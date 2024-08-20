@@ -1,8 +1,7 @@
 # 💫 About Me:
 
-🌱 I’m currently learning Python, SQL and Machine Learning<br>
 📫 How to reach me: bruna.stall14@gmail.com<br>
-📄 Know about my experiences: https://www.linkedin.com/in/bruna-stall<br>
+📄 Know about my experiences: https://www.linkedin.com/in/bruna-stall or https://www.insideboo.com<br>
 ⚡ Fun fact: I play guitar =)
 
 # 💻 Tech Stack:
