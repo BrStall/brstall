@@ -30,7 +30,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br/> 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brstall&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brstall&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brstall&theme=dark&hide_border=false) <br/>
 
 ## 🌐 Socials:
